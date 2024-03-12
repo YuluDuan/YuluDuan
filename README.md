@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-<div style="display: inline-block" align="center">
+<div style="display: inline-block">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuluduan&&exclude_repo=Beijing-PM2.5-Prediction-Model,Hypothesis-Testing-Data-Science-salary-comparison-in-different-location&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuluduan&theme=dracula" alt="yuluduan" height="200" />
 </div>
