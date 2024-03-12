@@ -53,8 +53,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40"/>
-  <img width="12" />
 </div>
 
 <br/>
